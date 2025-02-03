@@ -39,6 +39,13 @@ npm i --save-dev @types/cors
 
 ## para validar TODO 
 npm i express-validator
+
+# instalar ncu 
+npm install -g npm-check-updates
+## comprueba las dependencias que tienen nuevas versiones
+npx npm-check-updates
+## actualiza las dependencias
+npx npm-check-updates -u
 ```
 
 
